@@ -1,5 +1,5 @@
 # 2015latent
-This file collection contains the MATLAB code from the following publication:
+This repository contains the MATLAB code from the following publication:
 
 S. Kaltwang, S. Todorovic, and M. Pantic, 
 “Latent Trees for Estimating Intensity of Facial Action Units,” 
