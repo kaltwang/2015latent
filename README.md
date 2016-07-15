@@ -13,3 +13,5 @@ Usage:
 - see the comments within LT_example_script.m and LT_example_model.m to adapt the model to your needs
 
 This code has been tested with MATLAB R2013a.
+
+Note: See also the [newer Python implementation of this model](https://github.com/kaltwang/latenttrees).
